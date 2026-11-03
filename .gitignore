@@ -1,0 +1,11 @@
+# Visual Studio Temporary Folders
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Executable and User Files
+*.exe
+*.user
+*.suo
